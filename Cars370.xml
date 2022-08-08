@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset-platnomor</folder>
+	<filename>Cars370.png</filename>
+	<path>D:\Project\PYTHON\labelimg\dataset-platnomor\Cars370.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>435</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plat nomor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>239</ymin>
+			<xmax>424</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

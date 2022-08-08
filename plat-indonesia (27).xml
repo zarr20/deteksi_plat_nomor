@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset-platnomor</folder>
+	<filename>plat-indonesia (27).jpg</filename>
+	<path>D:\Project\PYTHON\labelimg\dataset-platnomor\plat-indonesia (27).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plat nomor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>341</ymin>
+			<xmax>293</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>
